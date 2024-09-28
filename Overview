@@ -1,0 +1,24 @@
+# House Price Prediction Using Python
+
+This project uses Linear Regression to predict house prices based on various features like location, size, and amenities. It is implemented using Python in Jupyter Notebook with libraries such as pandas, matplotlib, seaborn, and scikit-learn for data preprocessing, visualization, and model building.
+
+## Project Overview
+The main objective is to build a machine learning model to predict house prices using historical data. The data is preprocessed to handle missing values and categorical variables. The Linear Regression model is then trained, and its performance is evaluated using metrics like Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²).
+
+## Tools and Technologies Used
+- **Programming Language:** Python
+- **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Development Environment:** Jupyter Notebook
+- **Frontend:** HTML, CSS
+
+## Steps Involved
+1. Data preprocessing and visualization.
+2. Building a Linear Regression model.
+3. Evaluating the model's performance.
+4. Creating a simple frontend interface for interactive visualization.
+
+## How to Run the Project
+1. Clone this repository: `git clone https://github.com/your-username/house-price-prediction.git`
+2. Install the required libraries: `pip install -r requirements.txt`
+3. Run the Jupyter Notebook to train the model.
+4. Open the HTML file in a browser for the frontend interface.
